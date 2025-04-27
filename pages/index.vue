@@ -46,7 +46,9 @@ onMounted(async () => {
         <img class="w-24 h-24" src="@/assets/my-logo.png" alt="logo">
         <div class="text-center">
           <h1 class="text-4xl text-gray-800 font-bold dark:text-white bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">AIPAN.ME</h1>
-          <p class="text-gray-600 text-sm dark:text-gray-300 mt-2">爱盼 - 资源随心，娱乐无限</p>
+          <p class="text-gray-600 text-sm dark:text-gray-300 mt-2">酸酸乳 - 资源随心，娱乐无限</p>
+          <a href="https://good.suansuanru.fun" class="bg-black text-white rounded-lg px-4 py-2 mx-2 hover:bg-gray-800">入口1</a>
+<a href="https://nb.suansuanru.fun" class="bg-black text-white rounded-lg px-4 py-2 mx-2 hover:bg-gray-800">入口2</a>
         </div>
       </div>
     </div>
